@@ -1,0 +1,24 @@
+{
+  "name": "desafiologin",
+  "version": "1.0.0",
+  "description": "Desafio PGATS Julio de Lima - Construa uma função de para realizar login.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fagnerpaes/desafioLogin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/fagnerpaes/desafioLogin/issues"
+  },
+  "homepage": "https://github.com/fagnerpaes/desafioLogin#readme",
+  "dependencies": {
+    "mocha": "^11.7.5"
+  }
+}
